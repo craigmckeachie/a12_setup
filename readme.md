@@ -88,7 +88,7 @@
     ```
 
     - The installation may produce some warnings, but it should not have any errors. After running the install command, you can confirm a successful installation by running the command “ng v” (this should report the version of Angular CLI that’s installed).
-      - You should have version `12.x.x` of the Angular CLI for the course. Note that older versions of the Angular CLI work with older versions of Angular but not Angular 8 used in this course.
+      - You should have version `12.x.x` of the Angular CLI for the course. Note that older versions of the Angular CLI work with older versions of Angular but not Angular 12 used in this course.
       - If you have a previous version of the Angular CLI use the following command to update it:
       ```shell
       npm update -g @angular/cli@12
