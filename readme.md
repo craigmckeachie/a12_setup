@@ -124,6 +124,13 @@
     - Close your browser tab and the command prompt.
 
 7)  Internet access for all attendees and the instructor is required.
+8)  You will need to have a **Git client** installed. To verify it is installed open a terminal or command-prompt and run the command:
+    ```
+    git --version
+    ```
+    - Any version should work.
+    - Here is a link to a [page describing the process for installing the git client](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) if you need to install it.
+
 <!-- 8)  Download the files for the course, a link to a zip file with course files will be provided along with this setup information.
 
     - Depending on the course you are taking the zip file will be one of the following:
@@ -147,4 +154,4 @@
         - some pdf files
         - upgrade_manual -->
 
-8)  Your computer is now ready for class – you may exit from the Terminal / command prompt and any other programs that you were using in the setup.
+8.  Your computer is now ready for class – you may exit from the Terminal / command prompt and any other programs that you were using in the setup.
