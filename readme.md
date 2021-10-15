@@ -11,7 +11,7 @@
     - Google Chrome (http://www.google.com/chrome/) – any recent version
       - Students should be able to use the Chrome Developer Tools. This overview explains how to access them:
         - https://developers.google.com/web/tools/chrome-devtools/#open
-    - Please also install the following Chrome extensions ( Note: these are NOT required for the course but nice to have):
+    - Please also install the following Chrome extension ( Note: this are NOT required for the course but nice to have):
       - Angular DevTools
         - https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh
       <!-- - Redux DevTools Extension
