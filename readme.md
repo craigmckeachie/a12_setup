@@ -14,11 +14,10 @@
     - Please also install the following Chrome extensions ( Note: these are NOT required for the course but nice to have):
       - Angular DevTools
         - https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh
-      - Redux DevTools Extension
+      <!-- - Redux DevTools Extension
         - This extension is only used in the advanced and comprehensive courses
-        - http://extension.remotedev.io/
         - Follow the link for Chrome Web Store
-          >
+          > -->
     - Also, any other browsers that you plan to support
 
 3.  An IDE (Integrated Development Environment) or code editor of your choice – **Visual Studio Code OR WebStorm recommended**.
