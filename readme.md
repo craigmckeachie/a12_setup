@@ -1,8 +1,8 @@
 # Setup for Angular Course
 
-###### Version 12.1.0.0
+###### Version 12.2.0.2
 
-1.  A recent version of Windows (7 or later) or macOS, with current system updates and:
+1.  A recent version of Windows (10 or later) or macOS, with current system updates and:
     - at least 4 GB of RAM
     - 8 GB is great
     - 16 GB is ideal
@@ -14,7 +14,7 @@
     - Please also install the following Chrome extension ( Note: this are NOT required for the course but nice to have):
       - Angular DevTools
         - https://chrome.google.com/webstore/detail/angular-devtools/ienfalfjdbdpebioblfackkekamfmbnh
-      <!-- - Redux DevTools Extension
+        <!-- - Redux DevTools Extension
         - This extension is only used in the advanced and comprehensive courses
         - Follow the link for Chrome Web Store
           > -->
@@ -53,7 +53,9 @@
 
     - Please note, we will use a _Long-Term Support (LTS) version_ `12.x` or `14.x`, because some earlier and later versions are not compatible with Angular 12 or with some important Node packages that we will use during class.
 
+      > Angular 12 does not officially support Node `16.x` despite it being an LTS version. If you already have Node `16.x` installed for a project then everything in class is likely to work however you will get a `BAD ENGINE` warning message when doing npm installs. So you can stick with version 16 for class but if you run into issues we may have to install a supported version of Node. For more information see the [Angular CLI, Angular, Node.js, TypeScript, and RxJS compatibility matrix](https://gist.github.com/LayZeeDK/c822cc812f75bb07b7c55d07ba2719b3#gistcomment-3879034.)
       > Please **DO NOT** use Node 8.x or Node 10.x or Node 11.x or 13.x for this class.
+      > Angular 13 does support Node `16.x` but we will use Angular 12 in class.
 
     - If you have not installed Node yet, please
       - Visit http://nodejs.org/
