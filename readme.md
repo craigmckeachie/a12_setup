@@ -57,9 +57,9 @@
       > Please **DO NOT** use Node 8.x or Node 10.x or Node 11.x or 13.x for this class.
       > Angular 13 does support Node `16.x` but we will use Angular 12 in class.
 
-    - If you have not installed Node yet, please
-      - Visit http://nodejs.org/
-      - Click the green `14.17.4 LTS` (or similar) button on the left below the “Download for [your operating system]” heading to download the installer file.
+    - If you have not installed Node yet or need to get a `14.x` version that is compatible with Angular version 12, please
+      - Visit [the downloads page for the `v14.19.3` version](https://nodejs.org/download/release/v14.19.3/)
+      - Download and install the appropriate version for your operating system
     - After installation, please confirm that the Path environment variable on your computer has been modified to include the path for node and npm:
     - In a Mac Terminal prompt or a Windows command prompt (in Windows 7, click the Start button and type `cmd`), run the commands:
       ```
